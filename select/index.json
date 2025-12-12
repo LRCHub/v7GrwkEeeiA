@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "未解決な想い",
+  "base_artist": "マコト(CV:小松未可子)、カスミ(CV:水瀬いのり)",
+  "createdAt": "2025-12-12T18:08:08.580679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト (CV: 小松未可子) & カスミ (CV: 水瀬いのり)",
+      "has_synced": true,
+      "path": "select/01_未解決な想い_マコト_(CV__小松未可子)_&_カスミ_(CV__水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト (小松未可子)、カスミ (水瀬いのり)",
+      "has_synced": true,
+      "path": "select/02_未解決な想い_マコト_(小松未可子)、カスミ_(水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト (小松未可子) & カスミ (水瀬いのり)",
+      "has_synced": true,
+      "path": "select/03_未解決な想い_マコト_(小松未可子)_&_カスミ_(水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト (CV: 小松未可子), カスミ (CV: 水瀬いのり)",
+      "has_synced": true,
+      "path": "select/04_未解決な想い_マコト_(CV__小松未可子),_カスミ_(CV__水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト(CV:小松未可子)、カスミ(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/05_未解決な想い_マコト(CV_小松未可子)、カスミ(CV_水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト",
+      "has_synced": true,
+      "path": "select/06_未解決な想い_マコト.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト(CV.小松未可子)、カスミ(CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/07_未解決な想い_マコト(CV.小松未可子)、カスミ(CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未解決な想い",
+      "artist": "マコト (小松未可子)",
+      "has_synced": true,
+      "path": "select/08_未解決な想い_マコト_(小松未可子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未解決な想い",
+      "artist": "マコト(CV:小松未可子)、カスミ(CV:水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_01_未解決な想い_マコト(CV_小松未可子)、カスミ(CV_水瀬いのり).txt"
+    }
+  ]
+}
